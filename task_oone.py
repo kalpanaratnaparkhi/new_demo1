@@ -8,6 +8,9 @@ def random():
 def something():
     return "hello world!"
 
+def new():
+    return "welcome.."
+
 
 if __name__=="__main__":
     add(40, 50)
